@@ -5,7 +5,7 @@ public class Shouter {
 		
 		String shoutMessage = message.toUpperCase() + '!';
 		
-		System.out.println(shoutMessage)wasd;
+		System.out.println(shoutMessage);
 		
 	}
 	
